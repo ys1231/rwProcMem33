@@ -10,7 +10,7 @@
 #include <errno.h>
 #include <malloc.h>
 
-#include <linux\perf_event.h>
+// #include <linux\perf_event.h>
 
 //当前驱动版本号
 #define SYS_VERSION 01
